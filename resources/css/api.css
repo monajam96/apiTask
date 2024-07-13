@@ -7,14 +7,14 @@ table {
     width: 100%;  
     }  
       
-    th, td {  
+th, td {  
     border: 1px solid #ddd;  
     border-radius: 5px;
     padding: 8px;  
     text-align: center;  
     }  
       
-    th {  
+th {  
     background-color: #334fce;  
     color: white;  
     }  
